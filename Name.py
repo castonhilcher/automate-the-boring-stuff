@@ -8,4 +8,6 @@ if __name__ == '__main__':
     print('Nice to meet you, ' + myName)
     print('How old are you?')
     myAge = input()
-
+    #str()
+    #int()
+    #float()
